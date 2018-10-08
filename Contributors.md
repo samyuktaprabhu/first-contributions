@@ -2,6 +2,7 @@
 
 - [Tilak-Shenoy](https://github.com/Tilak-Shenoy)
 - [Niclas](https://github.com/buffet)
+- [Kausthubha K Rao](https://github.com/KKR-007)
 - [Kat MacCannon] (https://github.com/trenzafeeds)
 - [Tharuja Sandeepanie](https://github.com/Tharuja)
 - [KarinRoe] (https://github.com/KarinRoe)
